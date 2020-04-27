@@ -1,6 +1,7 @@
 {
     "name": "techf/cal",
     "description": "This package offers a abstraction layer for creating Calendars.",
+    "type": "library",
     "license": "MIT",
     "homepage": "https://github.com/tfrupinder/Calender",
     "authors": [
@@ -13,10 +14,9 @@
     "support": {
         "source": "https://github.com/tfrupinder/Calender"
     },
+    "minimum-stability": "stable",
     "autoload": {
-        "psr-0": {
-            "Eluceo\\iCal": "src/"
-        }
+        "psr-4": {"Eluceo\\iCal": "src/"}
     },
     "require": {
         "php": ">=5.3.0"
