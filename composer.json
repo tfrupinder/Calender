@@ -16,7 +16,7 @@
     },
     "minimum-stability": "stable",
     "autoload": {
-        "psr-4": {"Eluceo\\iCal": "src/"}
+        "psr-4": {"Eluceo\\iCal\\": "src/"}
     },
     "require": {
         "php": ">=5.3.0"
