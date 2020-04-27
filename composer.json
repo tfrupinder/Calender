@@ -26,5 +26,6 @@
     },
     "config": {
         "bin-dir": "bin"
-    }
+    },
+    “version” : “2.0.0”
 }
