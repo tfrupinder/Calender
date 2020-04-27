@@ -1,8 +1,8 @@
 {
-    "name": "eluceo/ical",
+    "name": "tf/ical",
     "description": "This package offers a abstraction layer for creating Calendars.",
     "license": "MIT",
-    "homepage": "https://github.com/tfrupinder/ms-cal",
+    "homepage": "https://github.com/tfrupinder/Calender",
     "authors": [
         {
             "name": "Developer",
@@ -11,7 +11,7 @@
         }
     ],
     "support": {
-        "source": "https://github.com/tfrupinder/ms-cal"
+        "source": "https://github.com/tfrupinder/Calender"
     },
     "autoload": {
         "psr-0": {
