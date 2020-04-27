@@ -1,5 +1,5 @@
 {
-    "name": "tf/ical",
+    "name": "eluceo/ical",
     "description": "This package offers a abstraction layer for creating Calendars.",
     "license": "MIT",
     "homepage": "https://github.com/tfrupinder/ms-cal",
