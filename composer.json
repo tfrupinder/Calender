@@ -14,8 +14,6 @@
     "support": {
         "source": "https://github.com/tfrupinder/Calender"
     },
-    "version" : "v2.0.0",
-    "minimum-stability": "stable",
     "autoload": {
         "psr-4": {"Eluceo\\iCal\\": "src/"}
     },
@@ -27,5 +25,8 @@
     },
     "config": {
         "bin-dir": "bin"
-    }
+    },
+    "version" : "v2.0.0",
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }
